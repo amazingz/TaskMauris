@@ -1,2 +1,2 @@
 # TaskMauris
-TestTask Mauris React/React-native developer
+Test Task Mauris React/React-native developer
